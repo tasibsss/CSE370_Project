@@ -6,7 +6,7 @@ Built to simplify the flight reservation process with an intuitive interface and
 
 ## 🌐 Features
 
-✅ **User Registration & Login** – Secure authentication for passengers  
+✅ **User Registration & Login** – Secure authentication for passengers
 ✅ **Flight Search** – Search available flights by date, destination, and airline  
 ✅ **Ticket Booking** – Book, cancel, or modify flight tickets easily
 ✅ **Admin Dashboard** – Manage flights, view passenger lists, and track bookings
