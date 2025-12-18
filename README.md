@@ -4,7 +4,7 @@ An online **Airline Ticket Booking System** that allows users to **search, book,
 Built to simplify the flight reservation process with an intuitive interface and real-time data management.
 
 
-## 🌐 Features
+## 🌐 Features 
 
 ✅ **User Registration & Login** – Secure authentication for passengers
 ✅ **Flight Search** – Search available flights by date, destination, and airline  
